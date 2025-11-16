@@ -1,0 +1,1 @@
+{"name":"전역 D-Day","short_name":"D-Day","description":"전역 D-Day 카운터","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#1E3A8A","lang":"en","scope":"/","icons":[{"src":"/pwa-512x512.png","sizes":"512x512","type":"image/png"},{"src":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]}
